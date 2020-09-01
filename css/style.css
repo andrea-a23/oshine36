@@ -1,0 +1,180 @@
+<style> url ('https://fonts.googleapis.com/css2? family = Roboto: wght @ 300; 400; 500; 700 & display = swap'); </style>
+
+<style> url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap'); </style>
+
+
+body{
+	font-family: 'Roboto' , sans-serif;
+	font-size: 14px;
+	color:#717A81;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Poppins', sans-serif;
+}
+
+header{
+	background-color: #000000;
+	padding: 20px 0;
+	text-align: center;
+}
+
+#hero{
+	background-image: url("../img/v36-intro.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	padding: 100px 0;
+	color: #FFFFFF;
+}
+
+#hero h1{
+	font-size: 70px;
+	font-weight: 700;
+	
+}
+#hero h2{
+	font-size: 24px;
+	margin-top: 40px;
+	margin-bottom: 50px;
+	color: #cacaca;
+}
+
+#hero .btn{
+	text-transform: uppercase;
+	padding: 15px 40px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	border-radius: 40px;
+}
+
+.title{
+	font-weight: 700;
+	text-align: center;
+	font-size: 50px;
+	color: #303132;
+}
+
+.subtitle{
+	font-size:24px;
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.section{
+	padding: 80px 0;
+}
+
+#what{
+	text-align: center;
+}
+
+#what article h4{
+	font-size: 14px;
+	font-weight: 700;
+	text-tramsform: uppercase;
+	color: #303132;
+	letter-spacing: 1px;
+}
+
+#product{
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+#product .title{
+	text-align: left;
+	color: #FFFFFF;
+}
+
+#product .subtitle{
+	text-align: left;
+	color: #D2D2D2;
+	font-size: 18px;
+}
+
+.tittle-ptop{
+	padding-top: 138px;
+}
+
+#product2 article h4{
+	color: #4859FC;
+}
+
+#product2 .title2{
+	font-weight: 600;
+	color: #303132;
+	font-size: 50px;
+}
+
+#product2 .subtitle{
+	text-align: left;
+	font-size: 20px;
+
+}
+
+#product2 .btn{
+	border-radius: 40px;
+}
+
+.mini{
+	font-size: 13px;
+	letter-spacing: 1px;
+	padding-bottom: 20px;
+}
+
+#reviews{
+	background-color: #4859fc;
+	text-align: center;
+}
+
+#reviews .title{
+	color: #fff;
+}
+
+#reviews article{
+	padding-left: 25px;
+	padding-right: 25px;
+}
+#reviews .info-review{
+	background-color: #fff;
+	padding: 35px 20px;
+	box-shadow: 9px 0px 20px 2px #283ea7;
+}
+
+.info-review h3{
+	color: #203132;
+	font-size: 14px;
+	text-tranform: uppercase;
+	font-weight: 600;
+	margin-top: 30px;
+}
+
+.info-review h4{
+	font-size: 14px;
+	font-weight: 400;
+	margin-bottom: 20px;
+	
+}
+
+.info-review p{
+	font-size: 16px;
+}
+
+#reviews article:first-child,
+#reviews article:last-child
+{
+	margin-top: 0px;
+}
+
+#reviews article:nth-child(2){
+	margin-top: -25px;
+	transform: translateY(-25px);
+}
+
+
+
+
+
+
